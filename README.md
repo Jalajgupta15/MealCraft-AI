@@ -59,6 +59,9 @@ To run MealCraft AI locally, follow these steps:
 ## **Screenshots**
 
 ![image](https://github.com/user-attachments/assets/a9dcf587-9fd6-4e6b-bddf-41487ff2ff02)
+![image](https://github.com/user-attachments/assets/1800df94-96bd-49a7-a560-10d7853eaf57)
+![image](https://github.com/user-attachments/assets/3fa02e07-4ca8-4e0b-91e9-44feae528e72)
+
 
 
 ---
