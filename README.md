@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bf25ff40-457f-428d-992d-bdb589e6f1c1)
+
 # **MealCraft AI**
 
 **MealCraft AI** is an intelligent diet planner designed to help you create personalized meal plans based on your unique health profile. By analyzing factors like BMI, activity level, health conditions, allergies, and dietary preferences, MealCraft AI crafts meal suggestions that align with your goals. Whether you're looking to lose weight, manage a health condition, or simply eat healthier, MealCraft AI has you covered!
